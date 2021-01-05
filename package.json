@@ -16,7 +16,7 @@
   "author": "h_arakawa@ill.co.jp <hideyuki908>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
